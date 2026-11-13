@@ -4,7 +4,8 @@ title                    : "Joan Melià-Seguí, PhD"
 title_separator          : "-"
 name                     : &name "Joan Melià-Seguí"
 description              : &description "Associate Professor · EIMT, Universitat Oberta de Catalunya (UOC)"
-url                      : "https://joan.melia.cat" # o el teu nou domini .cat
+#url                      : "https://joan.melia.cat" # o el teu nou domini .cat
+url                      : "https://jms.github.io"
 
 # Site Author
 author:
